@@ -1,4 +1,4 @@
-# NPU for Wafer Verification
+# NPU for Wafer Varification
 
 > CNN 추론을 FPGA로 직접 구현해, 서버·GPU 없이 저전력 보드 한 장으로 웨이퍼 결함을 자동 분류하는 시스템
 
